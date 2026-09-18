@@ -1,8 +1,9 @@
 #include <catch2/catch_test_macros.hpp>
 #include <iostream>
 
-// uncomment and replace the following with your own headers
-// #include "AVL.h"
+// Gabrielle Polito & Eliana Bacal
+// Gabrielle UFID: 52944390
+// Eliana UFID: 84676618
 
 using namespace std;
 
